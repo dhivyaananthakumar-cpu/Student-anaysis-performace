@@ -100,7 +100,7 @@ Results
 
 
 Author
-- Name: Your Name
+- Name: A.Dhivya Dharshni
 - Project: Student Performance Analysis
 
 
